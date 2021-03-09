@@ -221,4 +221,13 @@
       color: black;
     }
 
-        
+    @media (max-width: 486px) {
+      .image__author
+      {
+        order: 10;
+      }
+      .articles.banner__articles
+      {
+        order: 0;
+      }
+    } 
