@@ -160,8 +160,9 @@
         }
         .atribute__skils a
         {
-          margin: 10px 0px;
           display: block;
+          padding: 2.5px 0px;
+          
         }
 
           .date__period
