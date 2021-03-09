@@ -12,7 +12,7 @@
 } 
  .wrapper
  {
-    height: calc(2268px/2);
+    min-height: calc(2268px/2);
     width: 803px;
     background-color: white;
     margin-top: 7px;
