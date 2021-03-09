@@ -149,16 +149,21 @@
             align-items: flex-start;
             margin: 2.5px 0px;
         }
-        .atribute__article--skills
+        .atribute__skils
         {
           width: 100%;
           box-sizing: border-box;
           padding-top: 15px;
-          display: flex;
-          flex-direction: column;
-          align-items: flex-start;
           margin: 2.5px 0px;
+          display: flex;
+          flex-wrap: wrap;
         }
+        .atribute__skils a
+        {
+          margin: 10px 0px;
+          display: block;
+        }
+
           .date__period
           {
             font-size: 14px;
