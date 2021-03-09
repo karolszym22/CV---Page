@@ -149,6 +149,11 @@
             align-items: flex-start;
             margin: 2.5px 0px;
         }
+        .atribute__article--skills
+        {
+          display: flex;
+          align-content: flex-start;
+        }
           .date__period
           {
             font-size: 14px;
