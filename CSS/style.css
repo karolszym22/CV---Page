@@ -176,6 +176,11 @@
               font-size: 14px;
               font-weight: 600;
           }
+            .atribute__details--grey
+            {
+              color: rgb(168, 164, 164);
+              font-size: 14px;
+            }
           .atribute__language
           {
               font-size: 14px;
