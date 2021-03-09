@@ -214,6 +214,10 @@
       font-size: 14px;
       cursor: pointer;
       font-weight: 900;
+      
+    }
+    .nav__atribute a
+    {
       color: black;
     }
 
