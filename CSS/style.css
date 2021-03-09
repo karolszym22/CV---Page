@@ -151,8 +151,13 @@
         }
         .atribute__article--skills
         {
+          width: 100%;
+          box-sizing: border-box;
+          padding-top: 15px;
           display: flex;
-          align-content: flex-start;
+          flex-direction: column;
+          align-items: flex-start;
+          margin: 2.5px 0px;
         }
           .date__period
           {
