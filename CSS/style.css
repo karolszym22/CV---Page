@@ -230,4 +230,8 @@
       {
         order: 0;
       }
+      .nav__atribute a
+      {
+        font-size: 8px;
+      }
     } 
